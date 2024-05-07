@@ -23,7 +23,8 @@ en haut de la pile de ce même podium.
 - MA – L’animal se trouvant en bas de la pile du podium rouge monte et se
 place en haut de la pile de ce même podium.
 Le premier joueur ayant trouvé une bonne séquence de commandes remporte le
-tour. Si un joueur donne une mauvaise séquence, il ne peut plus en proposer d’autre
+tour.
+Si un joueur donne une mauvaise séquence, il ne peut plus en proposer d’autre
 pour le reste de ce tour. La situation atteinte après un tour est la situation de départ
 du tour qui suit. Si, durant un tour, il n’y a plus qu’un joueur à ne pas avoir proposer
 de séquence, ce dernier remporte le tour. La carte objectif trouvée devient la
